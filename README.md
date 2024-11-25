@@ -4,10 +4,10 @@ The project consists of ABC company's Employees dataset which consists of 458 ro
 
 ## Preprocessing
 
-There were about 2 percent null values in Salary column and 18 percent null values in college column. 
-Replaced null values of salary using fillna function with median of salary.
-replaced null values of college with mode of the college column . 
-height column included inappropriate values. replaced then with random values ranging 150 to 180.
+* There were about 2 percent null values in Salary column and 18 percent null values in college column. 
+* Replaced null values of salary using fillna function with median of salary.
+* Replaced null values of college with mode of the college column . 
+* Height column included inappropriate values. replaced then with random values ranging 150 to 180.
 
 ## Analysis tasks:
 ### 1.To determine employee distribution across each team and calculate   the percentage split relative to the total number of employees. 
